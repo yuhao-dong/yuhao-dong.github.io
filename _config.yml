@@ -6,10 +6,10 @@
 name: Yuhao Dong
 
 # Short bio or description (displayed in the header)
-description: DREAM Project
+description: I am a current Columbia University Computer Science MS student. I studied Mechanical Engineering at City College of New York, and earned a B.E. in M.E. degree in 2019. I am currently interested in software engineering and data science related research topics.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/profile.jpg
+avatar: yuhao-dong.github.io/images/profile.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: ./images/profile.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: yuhao.dong@columbia.edu
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
