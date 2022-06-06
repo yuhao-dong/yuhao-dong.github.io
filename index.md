@@ -23,12 +23,12 @@ Professor Wu’s research spans the areas of core database optimization, stream 
 Professor Wu received a BS in electrical engineering and computer science from UC Berkeley in 2006, a PhD in electrical engineering and computer science from MIT in 2015, and was a Postdoctoral Fellow at UC Berkeley in 2015.
 
 See here for Professor We's websites:
-https://www.engineering.columbia.edu/faculty/eugene-wu
-http://www.cs.columbia.edu/~ewu/
+(https://www.engineering.columbia.edu/faculty/eugene-wu)
+(http://www.cs.columbia.edu/~ewu/)
 
 ## About My Project
 
-Billions of dollars of crops are lost each decade to disasters [Link](https://www.fao.org/resources/digital-reports/disasters-in-agriculture/en/), and climate change may impact where and how much of different crops can be produced [Link](https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/). To counter the ever-present and growing risk to crops, insurance programs have been created to help farmers all over the world. 
+Billions of dollars of crops are lost each decade to disasters [Link]((https://www.fao.org/resources/digital-reports/disasters-in-agriculture/en/)), and climate change may impact where and how much of different crops can be produced [Link]((https://climate.nasa.gov/news/3124/global-climate-change-impact-on-crops-expected-within-10-years-nasa-study-finds/)). To counter the ever-present and growing risk to crops, insurance programs have been created to help farmers all over the world. 
 
 Some of these programs employ index insurance (i.e., insurance that provides a payout at a trigger reached on some index). Index insurance creates a clear way to provide payouts, but it also simplifies the complexity of the world. This creates a dilemma; how do you design a good trigger so no one is left behind while also incentivizing people to produce as much as possible? One approach is to try and adjust your quantitative index for feedback from in-person assessments.  
 
