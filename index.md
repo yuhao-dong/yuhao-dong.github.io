@@ -39,7 +39,7 @@ In the case of farming, the tool helps to ensure that a trigger can be reached i
 Our toolkit runs on open source technologies including Svelte, DBT, Flask, and duckDB web assembly among others.
 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/final_paper.pdf)
 
 ## My Blog
 
